@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Bruno Melo
 
 - 🔭 Graduando em Ciência da Computação
-- 🌱 Estudando JavaScript
+- 🌱 Estudando JavaScript e PHP
 - 😄 Pronouns: ele/dele
 
 <div>
